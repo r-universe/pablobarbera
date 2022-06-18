@@ -1,0 +1,10 @@
+[
+  {
+    "package": "instaR",
+    "oncran": true
+  },
+  {
+    "package": "Rfacebook",
+    "oncran": true
+  }
+]
