@@ -15,3 +15,8 @@
 	shallow = true
 	subdir = Rfacebook
 	registered = true
+[submodule "ROAuth"]
+	path = ROAuth
+	url = https://github.com/pablobarbera/roauth
+	shallow = true
+	registered = true

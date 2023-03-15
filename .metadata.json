@@ -6,5 +6,9 @@
   {
     "package": "Rfacebook",
     "oncran": true
+  },
+  {
+    "package": "ROAuth",
+    "oncran": true
   }
 ]
