@@ -20,3 +20,8 @@
 	url = https://github.com/pablobarbera/roauth
 	shallow = true
 	registered = true
+[submodule "streamR"]
+	path = streamR
+	url = https://github.com/cran/streamR
+	shallow = true
+	registered = true
