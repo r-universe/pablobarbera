@@ -2,17 +2,17 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "instaR"]
-	path = instaR
-	url = https://github.com/pablobarbera/instar
-	subdir = instaR
+[submodule "ROAuth"]
+	path = ROAuth
+	url = https://github.com/pablobarbera/roauth
 [submodule "Rfacebook"]
 	path = Rfacebook
 	url = https://github.com/pablobarbera/rfacebook
 	subdir = Rfacebook
-[submodule "ROAuth"]
-	path = ROAuth
-	url = https://github.com/pablobarbera/roauth
+[submodule "instaR"]
+	path = instaR
+	url = https://github.com/pablobarbera/instar
+	subdir = instaR
 [submodule "streamR"]
 	path = streamR
 	url = https://github.com/cran/streamR
